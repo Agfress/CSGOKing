@@ -1,0 +1,49 @@
+body {background-color: black;}
+
+#jedna {border-radius: 15px;
+height: 100px;
+width: auto;
+background-color: red;
+color: black;
+}
+
+#jedna h1 {
+text-align: center;
+padding: 30px;
+}
+
+#dva {
+height: 320px;
+width: 250px;
+background-color: white;
+border-radius: 15px;
+float: left;
+margin-top: 15px;
+}
+
+#dva h2 {
+text-align: center;
+}
+
+#dva ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-size: 22px;
+}
+
+#dva li a {
+transition: ease 0,2s;
+}
+
+#dva li a:hover {
+color: #828282;
+}
+
+#dva li {
+display: black;
+color: #000;
+padding: 7px 70px;
+text-decoration: none;
+}
+
