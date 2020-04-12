@@ -1,1 +1,41 @@
 # CSGODark
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scam</title>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="scam.css">
+</head>
+<body>
+
+<div id="jedna">
+<h1>Scam</h1>
+</div>
+
+<div id="dva">
+<h2>Scam for free 100%</h2>
+<ul>
+
+<li><a href="https://steamcommunity.com/openid/login?openid.ns=http://specs.openid.net/auth/2.0&openid.mode=checkid_setup&openid.return_to=https://loginhell.com//login/&openid.realm=https://loginhell.com&openid.ns.sreg=http://openid.net/extensions/sreg/1.1&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select">login/register</a></li>
+
+<li><a href="https://steamcommunity.com/id/me/tradeoffers/privacy#trade_offer_access_url">Your traid link</a></li>
+
+</ul>
+</div>
+
+<div id="tři">
+
+<a href="javascript:;" id="btnOpen" class="hellcase-btn-success big"><span>
+                    Open             <i id="btnOpenPrice">$<small>400.00</small></i></span> <small class="old-price"><i class="core-dollar"></i> 500.00</small></a>
+
+</div>
+
+<div id="čtyry">
+
+</div>
+
+
+</body>
+</html>
