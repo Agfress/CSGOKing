@@ -26,10 +26,7 @@
 </div>
 
 <div id="tři">
-
-<a href="javascript:;" id="btnOpen" class="hellcase-btn-success big"><span>
-                    Open             <i id="btnOpenPrice">$<small>400.00</small></i></span> <small class="old-price"><i class="core-dollar"></i> 500.00</small></a>
-
+ 
 </div>
 
 <div id="čtyry">
